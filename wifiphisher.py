@@ -26,7 +26,7 @@ conf.verb = 0
 PORT = 8080
 SSL_PORT = 443
 PEM = 'cert/server.pem'
-PHISING_PAGE = "access-point-pages/minimal"
+PHISING_PAGE = "access-point-pages/connection_reset"
 DN = open(os.devnull, 'w')
 
 # Console colors
